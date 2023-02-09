@@ -1,6 +1,6 @@
 ## Todolist API
 
-This simple Todolist API uses RESTful web services to store and manage tasks. Users can add, update, and delete their tasks.
+This simple Todolist API uses RESTful web services to store and manage tasks. Users can add, update, and delete their tasks.This application is ideal for those who want to learn web api.
 
 ## Usage
 
